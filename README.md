@@ -1,2 +1,2 @@
-# webinterview
-this is for preparing tech interviewing
+# the first python project
+this is repositary for the first python project.
